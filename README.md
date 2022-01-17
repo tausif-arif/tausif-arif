@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tausif-arif
-- 👀 I’m looking for reactjs profile.
+- 👋 Hi, this is @tausif-arif
+
  ...
 
 <!---
