@@ -42,12 +42,6 @@
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tausif-arif&layout=pie)  
-
----
-
-## 📊 Tech Stack Breakdown  
-![Tech Stack](https://your-image-link.com/piechart.png)  
-
 ---
 
 🔗 *Always exploring new tech & open to collaboration!* 🚀  
