@@ -14,6 +14,8 @@
 
 ## 📌 Portfolio
 [my-portfolio-2-0-sigma.vercel.app](https://my-portfolio-2-0-sigma.vercel.app/)
-
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tausif-arif&layout=pie)
+
 🔗 *Always exploring new tech & open to collaboration!*
